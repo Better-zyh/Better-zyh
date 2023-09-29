@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/Better-zyh/Better-zyh/blob/main/coding.gif" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Yihan Zhang</h1>
+<h1 align="center">Hello There 👋</h1>
 
 ### About Me 🚀
 
